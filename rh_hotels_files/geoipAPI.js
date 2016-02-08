@@ -1,0 +1,1 @@
+isgeoipapi_continent_code = "EU";isgeoipapi_country_code = "GB";isgeoipapi_country_name = "United Kingdom";isgeoipapi_region = "H9";isgeoipapi_city = "London";isgeoipapi_dma_code = "0";isgeoipapi_area_code = "0";isgeoipapi_latitude = "51.500198";isgeoipapi_longitude = "-0.126200";isgeoipapi_ip_addr = "81.100.208.169";
